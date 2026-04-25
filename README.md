@@ -1,20 +1,18 @@
-<<<<<<< HEAD
-# Blind
-=======
-# blind_nav
+# Blind Nav 🦯
 
-A new Flutter project.
+A voice-based mobile navigation app for visually impaired individuals. 
+Enables hands-free, independent movement using real-time object detection, 
+GPS location tracking, and full voice interaction — no visual interface required.
 
-## Getting Started
+## Tech Stack
+- **Flutter** — Cross-platform mobile app
+- **YOLOv3 / ML Kit** — Real-time object detection
+- **Geolocator** — GPS location tracking
+- **Speech-to-Text** — Voice command input
+- **Text-to-Speech** — Audio feedback and announcements
+- **Gesture Detection** — Hands-free activation
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> c2b3798 (Initial commit with working voice and GPS integration)
+<img width="720" height="1429" alt="gesture_activation" src="https://github.com/user-attachments/assets/89fe299e-fb20-450e-b474-f96aefa07a46" />
+<img width="656" height="1459" alt="voice_command" src="https://github.com/user-attachments/assets/617270fe-0310-435b-8d5c-89dada0d52e2" />
+<img width="720" height="1600" alt="Screenshot_20251014-205546" src="https://github.com/user-attachments/assets/51331420-06bb-49a0-a5e3-c3bbb2f535a2" />
+<img width="626" height="1392" alt="object_detection" src="https://github.com/user-attachments/assets/89f868cb-4829-4125-9d10-971623f14aa6" />
